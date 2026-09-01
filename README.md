@@ -11,7 +11,7 @@ I spent five years building production backend systems at Walmart, Oracle, and V
 **🔨 Currently building:** finishing the guardrails and evaluation layer on the customer care chatbot, and writing up the retrieval tradeoffs as I go.
 
 ### AI Document Q&A System — Production RAG Pipeline
-Ask questions in plain English against a library of PDFs and Word docs, and get answers that cite their sources or say "I don't know."
+Ask questions in plain English against a library of PDFs and Word docs, and get answers grounded in the documents, or an honest "I don't know" when the answer isn't there.
 
 - Vector storage on TimescaleDB + pgvectorscale instead of a managed vector DB: **~75% cheaper than Pinecone** at comparable query performance
 - **One batched embeddings call instead of 50 to 100 sequential round trips** per document
