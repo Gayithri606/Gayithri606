@@ -91,8 +91,8 @@ This is the part that shapes how I build AI systems. Uptime and correctness were
 
 I take on RAG assistants, support chatbots grounded in real documents, internal AI tools, and Python workflow automation. The first call is free, and I'd rather figure out what "done" looks like before quoting than after.
 
-**Freelance:** [Upwork](https://www.upwork.com/freelancers/gayithrip) · 100% Job Success · 5.0 rating · Rising Talent
+**Freelance:** [Upwork](https://www.upwork.com/freelancers/gayithrip) · 100% Job Success · 5.0 rating · Top Rated
 
 **Full-time:** I'm looking for AI engineering roles where retrieval quality, evaluation, and cost actually matter. The backend history above is why I think about those first.
 
-📍 San Jose, CA · 🌐 [gayithriponnapalli.com](https://gayithriponnapalli.com) · ✉️ gayithri@pojoai.com https://www.linkedin.com/in/gayithriponnapalli/
+📍 San Jose, CA · 🌐 [gayithriponnapalli.com](https://gayithriponnapalli.com) · ✉️ gayithri@pojoai.com   https://www.linkedin.com/in/gayithriponnapalli/
