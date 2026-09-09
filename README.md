@@ -1,5 +1,9 @@
 # Gayithri P. | AI Engineer | RAG Assistants, Support Chatbots & Workflow Automation
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gayithriponnapalli.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayithriponnapalli/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayithri@pojoai.com)
+
 Reliable AI doesn't come just from better models and better prompts. It comes from better engineering.
 
 I spent five years building production backend systems at Walmart, Oracle, and VMware before moving into AI, and I build AI the same way: with tests, evaluation, guardrails, and cost tracking from day one. Based in San Jose, CA.
@@ -93,6 +97,12 @@ I take on RAG assistants, support chatbots grounded in real documents, internal 
 
 **Freelance:** [Upwork](https://www.upwork.com/freelancers/gayithrip) · 100% Job Success · 5.0 rating · Top Rated
 
-**Full-time:** I'm looking for AI engineering roles where retrieval quality, evaluation, and cost actually matter. The backend history above is why I think about those first.
 
-📍 San Jose, CA · 🌐 [gayithriponnapalli.com](https://gayithriponnapalli.com) · ✉️ gayithri@pojoai.com   https://www.linkedin.com/in/gayithriponnapalli/
+### I'm always interested in:
+- Full-time or contract-to-hire AI engineering roles building RAG assistants, support chatbots, and internal AI tools that hold up in front of real users, and I can put five years of production backend experience to work
+
+📍 San Jose, CA
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gayithriponnapalli.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayithriponnapalli/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayithri@pojoai.com)
