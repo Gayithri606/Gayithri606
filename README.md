@@ -1,6 +1,6 @@
 # Gayithri P. | AI Engineer | RAG Assistants, Support Chatbots & Workflow Automation
 
-Reliable AI doesn't come just from better prompts. It comes from better engineering.
+Reliable AI doesn't come just from better models and better prompts. It comes from better engineering.
 
 I spent five years building production backend systems at Walmart, Oracle, and VMware before moving into AI, and I build AI the same way: with tests, evaluation, guardrails, and cost tracking from day one. Based in San Jose, CA.
 
@@ -95,4 +95,4 @@ I take on RAG assistants, support chatbots grounded in real documents, internal 
 
 **Full-time:** I'm looking for AI engineering roles where retrieval quality, evaluation, and cost actually matter. The backend history above is why I think about those first.
 
-📍 San Jose, CA · 🌐 [gayithriponnapalli.com](https://gayithriponnapalli.com) · ✉️ gayithri@pojoai.com
+📍 San Jose, CA · 🌐 [gayithriponnapalli.com](https://gayithriponnapalli.com) · ✉️ gayithri@pojoai.com https://www.linkedin.com/in/gayithriponnapalli/
