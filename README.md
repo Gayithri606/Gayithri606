@@ -1,8 +1,8 @@
 # Gayithri P. | AI Engineer | RAG Assistants, Support Chatbots & Workflow Automation
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://gayithriponnapalli.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayithriponnapalli/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayithri@pojoai.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E3C173?style=for-the-badge&logo=googlechrome&logoColor=1E1E3A)](https://gayithriponnapalli.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CFCDC5?style=for-the-badge&logo=linkedin&logoColor=1E1E3A)](https://www.linkedin.com/in/gayithriponnapalli/)
+[![Email](https://img.shields.io/badge/Email-3A3A7A?style=for-the-badge&logo=gmail&logoColor=C4973A)](mailto:gayithri@pojoai.com)
 
 Reliable AI doesn't come just from better models and better prompts. It comes from better engineering.
 
